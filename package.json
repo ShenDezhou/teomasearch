@@ -1,0 +1,16 @@
+{
+  "name": "teomasearch",
+  "main": "./lib/googlesearch",
+  "version": "1.0.0",
+  "description": "Search Highlighted word in teoma.com",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "teomasearch:teoma-it"
+  },
+  "repository": "https://github.com/shendezhou/teomasearch",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
